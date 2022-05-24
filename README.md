@@ -19,5 +19,5 @@
 
 <br/>
 <p>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=res1-dent&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=res1dent&layout=compact)](https://github.com/res1-dent/github-readme-stats)
 </p>
