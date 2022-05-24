@@ -19,9 +19,6 @@
 
 <br/>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=res1-dent&layout=compact)](https://github.com/res1-dent/github-readme-stats)
+</p>
