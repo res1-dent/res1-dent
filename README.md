@@ -21,6 +21,11 @@
 </p>
 
 <br/>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=res1-dent&show_icons=true&theme=radical)
+
+[![Readme Card](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=renlov&repo=shadowlibrary&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false
+)](https://github.com/renlov/shadowlibrary)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=res1-dent&layout=compact)](https://github.com/res1-dent/github-readme-stats)
 
