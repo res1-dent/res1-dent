@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://discordapp.com/users/8295" alt="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/ytrewqcxz"><img width="32px" alt="Telegram" title="Telegram" src="http://toplogos.ru/images/logo-telegram.png"></a>
+  <a href="https://t.me/ytrewqcxz"><img width="32px" alt="Telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
