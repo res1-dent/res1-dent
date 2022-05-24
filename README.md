@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F71211&center=true&vCenter=true&lines=Android+developer;2%2B+years+of+coding+experience;Always+learning+new+things"></a>
-  <a href="https://spb.hh.ru/resume/960552cdff0805a56c0039ed1f465864756a79"><img width="32px" alt="HH" title="HH" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/200px-HeadHunter_logo.png"></a>
 </p>
 
 
@@ -16,6 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/ytrewqcxz"><img width="32px" alt="Telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://spb.hh.ru/resume/960552cdff0805a56c0039ed1f465864756a79"><img width="32px" alt="HH" title="HH" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/200px-HeadHunter_logo.png"></a>
 </p>
 
 <br/>
